@@ -1,6 +1,6 @@
 ![Pixolium Networks landing logo. Solutions that connect people](pixolium_networks_landing_logo.png)
 
-### **Pixolium Networks** // Providing *solutions that connect people* at the foundational level.
+#### **Pixolium Networks** // Providing *solutions that connect people* at the foundational level.
 
 ----
 
